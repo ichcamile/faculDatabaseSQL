@@ -1,6 +1,7 @@
 # Repositório da Matéria - Banco de Dados
 
-Este repositório é uma ferramenta valiosa para estudantes e profissionais que desejam aprimorar seus conhecimentos em bancos de dados. Ele contém dois arquivos principais:
+Este repositório contém um conjunto de scripts SQL para criar e manipular um banco de dados para um catálogo de filmes, bem como revisões dos conteúdos das aulas. Aqui está um resumo do que você encontrará:
+
 
 ## Avaliação
 No arquivo `avaliacao.sql`, você encontrará a estrutura completa de um banco de dados para um catálogo de filmes, juntamente com os dados inseridos e consultas relevantes. Aqui está um resumo do que você encontrará:
