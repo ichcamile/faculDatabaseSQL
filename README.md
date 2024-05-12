@@ -1,5 +1,5 @@
 # Repositório da Matéria - Banco de Dados
-
+<img src="https://skillicons.dev/icons?i=git,mysql" />
 Este repositório contém um conjunto de scripts SQL para criar e manipular um banco de dados para um catálogo de filmes, bem como revisões dos conteúdos das aulas. Aqui está um resumo do que você encontrará:
 
 
