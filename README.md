@@ -4,7 +4,7 @@ Este repositório contém um conjunto de scripts SQL para criar e manipular um b
 
 
 ## Avaliação
-No arquivo `avaliacao.sql`, você encontrará a estrutura completa de um banco de dados para um catálogo de filmes, juntamente com os dados inseridos e consultas relevantes. Aqui está um resumo do que você encontrará:
+No arquivo `Avaliacao_Avaliativa03-Portfolio.sql`, você encontrará a estrutura completa de um banco de dados para um catálogo de filmes, juntamente com os dados inseridos e consultas relevantes. Aqui está um resumo do que você encontrará:
 
 - **Estrutura do Banco de Dados:**
   - Tabelas para armazenar informações sobre gêneros de filmes, diretores e detalhes dos filmes.
@@ -19,7 +19,8 @@ No arquivo `avaliacao.sql`, você encontrará a estrutura completa de um banco d
   - Seleção de nomes de filmes e seus gêneros correspondentes.
 
 ## Revisão de Conteúdos
-Dentro do arquivo `revisao.sql`, você encontrará exemplos práticos que revisam os conceitos fundamentais abordados em aula, incluindo:
+Dentro do arquivo `revisao01.sql
+`, você encontrará exemplos práticos que revisam os conceitos fundamentais abordados em aula, incluindo:
 
 - **Criação de Tabela:**
   - Exemplo de criação de uma tabela para armazenar informações sobre jogos.
